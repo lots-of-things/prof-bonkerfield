@@ -9,7 +9,7 @@ This is the course website for Professor Yakob Bonkerfield, distinguished lectur
 
 <br>
 
-#### Why Integrate history and performance?
+#### Why I integrate history and performance?
 
 insert video
 
