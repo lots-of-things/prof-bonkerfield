@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Yakob Bonkerfield, PhD
+### Casimir Bonkerfield, PhD
 
 ![](/img/face_prof.jpg)
 
