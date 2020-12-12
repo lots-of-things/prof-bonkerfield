@@ -29,8 +29,8 @@ body {
 }
 
 .jumbotron {
-	background: 
-    url('../#{$jumbotron-mask}') repeat, 
+	background:
+    url('../#{$jumbotron-mask}') repeat,
     url('../#{$jumbotron-image}') center/$jumbotron-image-size $jumbotron-color;
 	color: $white;
   text-shadow: 5px 5px 10px $gray-darker;
@@ -59,7 +59,12 @@ body {
 }
 
 .content img {
-    max-width: 100%;
+    float: left;
+    padding: 10px;
+    margin-top: 10px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 blockquote {
