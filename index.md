@@ -4,7 +4,7 @@ published: true
 ---
 
 This is the course website for Professor Casimir Bonkerfield, distinguished lecturer of Alternative Historilogical Constructionism and Historimusicology at the Bowery Insitute. I perform and lecture on post-folk musical and cultural history in the American Midwest.  My current course offerings are
-* **[Guymon, OK](/modules/guymon-ok/wasted-summer/)** - The sordid history of the Dusty Earth Collective
+* **[Dusty Earth](/modules/dusty-earth/wasted-summer/)** - The rise and fall of the Dusty Earth Collective
 * **Principle** - coming soon
 
 <br>

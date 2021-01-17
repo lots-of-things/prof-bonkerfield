@@ -1,5 +1,5 @@
 ---
-title: Getting Started with GitHub
+title: Wasted Summer
 ---
 
 ## Wasted Summer
