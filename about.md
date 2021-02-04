@@ -6,7 +6,7 @@ layout: page
 
 ![](/img/face_prof.jpg)
 
-Professor Bonkerfield is a researcher and lecturer in the fields of Alternative Historilogical Constructionism and Historimusicology in the department of Synthetic Contemplative Media at the Bowery Institute.  He has been working at the crossroads of Midwestern folk music marginalia and the creation of abstraction in psychophysiological ergodicity. His work centers on identity, radical centrism, and the moribund platitudes of commonality.
+Professor Bonkerfield is a researcher and lecturer in the fields of Alternative Historilogical Musicology and Historimusiconstructionism in the department of Synthetic Contemplative Media at the Bowery Institute.  He has been working at the crossroads of Midwestern folk music marginalia and the creation of abstraction in psychophysiological ergodicity. His work centers on identity, radical centrism, and the moribund platitudes of commonality.
 
 <br>
 
